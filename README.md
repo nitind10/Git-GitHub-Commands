@@ -1,2 +1,2 @@
 # Git-GitHub-Commands
-Contains some commands of Git and GitHub
+Contains useful commands of Git and GitHub. Some contributions have been made by Siddhant Rai.
